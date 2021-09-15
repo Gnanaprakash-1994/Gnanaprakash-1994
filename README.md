@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gnanaprakash-1994
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine LEarning Certification
+- 🌱 I’m currently learning Machine Learning Certification
 - 💞️ I’m looking to collaborate on Data Analyst , Data Science
 - 📫 How to reach me  https://www.linkedin.com/in/gnanaprakash-v-a21b66a1/ , vishwanathaprakash@gmail.com
 
