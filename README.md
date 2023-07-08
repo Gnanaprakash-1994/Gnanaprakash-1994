@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gnanaprakash-1994
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning Certification
-- 💞️ I’m looking to collaborate on Data Analyst , Data Science
+- 👀 Currently working as a Product Solution Engineer
+- Having a keen interset in Testing, SQL, and Ruby, REST API, REST Assured API,
+- Basic Knowledge of Python and Java
+- Having a knowledge in Stakeholder management and team handling.
 - 📫 How to reach me  https://www.linkedin.com/in/gnanaprakash-v-a21b66a1/ , vishwanathaprakash@gmail.com
 
 <!---
