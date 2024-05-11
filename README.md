@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gnanaprakash-1994
 - 👀 Currently working as a Product Solution Engineer
-- Having a keen interset in Testing, SQL, and Ruby, REST API, REST Assured API,
+- Having a keen interset in Testing, SQL,Python,HTML5,CSS3,React JS , Node JS,Javascript.
 - Basic Knowledge of Python and Java
 - Having a knowledge in Stakeholder management and team handling.
 - 📫 How to reach me  https://www.linkedin.com/in/gnanaprakash-v-a21b66a1/ , vishwanathaprakash@gmail.com
