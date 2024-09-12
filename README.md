@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Gnanaprakash-1994
-- 👀 Currently working as a Product Solution Engineer
+- 👀 Previously worked as a Product Solution Engineer 
+- Currently looking for a job in tech support or product support role.
 - Having a keen interset in Testing, SQL,Python,HTML5,CSS3,React JS , Node JS,Javascript.
 - Having interest in developing MERN Stack Project.
 - Basic Knowledge of Python and Java.
